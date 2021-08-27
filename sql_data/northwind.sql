@@ -1,3 +1,5 @@
+-- This module generate the tables reading the csv file indicated: I need to write the columns name and type of data
+
 --1) Categories
 
 DROP TABLE IF EXISTS categories;

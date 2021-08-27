@@ -1,16 +1,16 @@
--- Get the names and the quantities in stock for each product.
+-- 1 Get the names and the quantities in stock for each product.
 
 SELECT product_name, units_in_stock
 FROM products
 ;
 
--- Get a list of current products (Product ID and name).
+-- 2 Get a list of current products (Product ID and name).
 
 SELECT product_id, product_name
 FROM products
 ;
 
--- Get a list of the most and least expensive products (name and unit price).
+-- 3 Get a list of the most and least expensive products (name and unit price).
 SELECT product_name, unit_price
 FROM products
 ORDER BY unit_price

@@ -1,5 +1,6 @@
 --
 -- PostgreSQL database dump
+-- This file is the dumped version of the DB is another way to generate the PosgreSQL Database tables and content
 --
 
 -- Dumped from database version 13.0

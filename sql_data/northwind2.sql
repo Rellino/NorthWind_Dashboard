@@ -1,4 +1,4 @@
---
+-- this file contained the dump version of the DB done for training reasons
 -- PostgreSQL database dump
 --
 
