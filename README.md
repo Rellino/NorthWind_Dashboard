@@ -1,4 +1,4 @@
-### Northwind Dashboard
+# Northwind Dashboard
 
 Another stimulating project completed at SPICED Accademy. The goal of this project was to build a Dashboard with [Metabase](https://www.metabase.com/) running on AWS and based on a Postgres database on Amazon RDS. The dashboard summurizes data from the _"Nothwind Traders"_ a fictional company. 
 
